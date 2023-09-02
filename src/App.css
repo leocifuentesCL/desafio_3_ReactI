@@ -1,0 +1,9 @@
+.container-none {
+    height: 100vh;
+    background: rgb(151, 168, 254);
+    background: radial-gradient(
+      circle,
+      rgb(250, 250, 250) 0%,
+      rgb(51, 60, 65) 100%
+    );
+  }
